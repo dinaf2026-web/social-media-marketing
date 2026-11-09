@@ -1,0 +1,24 @@
+{
+  "name": "social-media-marketing",
+  "version": "0.1.0",
+  "description": "Organic social-media strategy and platform-native content for brands, products, services, creators, campaigns, launches, and channels. Covers audience and positioning, content pillars, 30/60/90-day plans, calendars, hooks, captions, scripts, titles and thumbnails, channel audits, competitor and content-gap analysis, repurposing, and monetization. Built around a claim-safety gate that separates source status from claim status and refuses to let ingredient evidence, animal research, or a disclaimer carry a headline the evidence does not support.",
+  "author": "Dina Farhat",
+  "homepage": "https://github.com/dinaf2026-web/social-media-marketing",
+  "repository": "https://github.com/dinaf2026-web/social-media-marketing",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "marketing",
+    "content-strategy",
+    "content-calendar",
+    "copywriting",
+    "instagram",
+    "tiktok",
+    "youtube",
+    "channel-audit",
+    "competitor-analysis",
+    "claim-safety",
+    "advertising-compliance",
+    "claude-skill"
+  ]
+}

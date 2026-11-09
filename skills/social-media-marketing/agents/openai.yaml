@@ -1,0 +1,9 @@
+interface:
+  display_name: "Social Media Marketing"
+  short_description: "Strategy, campaigns, audits, and claim-safe social copy"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  default_prompt: "Use $social-media-marketing to build a platform-specific social strategy and claim-safe content plan."
+
+policy:
+  allow_implicit_invocation: true
